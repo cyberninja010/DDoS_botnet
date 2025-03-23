@@ -8,19 +8,20 @@ Attacks types:
 
 There are few attacks yet, but I will improve this tool in the future.
 
-[========]
 
 ### How to use?
 - First, copy the repository:
+- 
 `git clone https://github.com/IvanProkshin/DDoS_botnet`
 
 - Go to the directory:
+- 
 `cd DDoS_botnet-main`
 
 - Run *main.py* as root:
+- 
 `sudo python main.py`
 
-[========]
 
 ### How to add server?
 The servers in this botnet are just http proxies, so if you want to add your own servers, just add them to the *botnet.py* like this:
@@ -43,7 +44,6 @@ print(f"Botnet servers: {len(proxies)}")
 
 ```
 
-[========]
 
 ### Examples of work:
 **Server code: **
