@@ -14,6 +14,10 @@ There are few attacks yet, but I will improve this tool in the future.
 
 `git clone https://github.com/IvanProkshin/DDoS_botnet`
 
+- Install the requirements:
+
+`python -m pip install random requests fake-headers struct scapy loguru`
+
 - Go to the directory:
 
 `cd DDoS_botnet-main`
