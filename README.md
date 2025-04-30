@@ -66,3 +66,5 @@ app.run(host="0.0.0.0", port=80)
 Denies service after 7s
 
 ##### Have a good use!
+
+Warning: The code in most cases overloads your network stack, use at your own risk
